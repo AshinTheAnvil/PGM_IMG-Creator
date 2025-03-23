@@ -59,8 +59,6 @@ This project further requires some precise improvements to recreate a CAD produc
 
 ## Author
 
-Your Name
-
 Ashin
 
 
