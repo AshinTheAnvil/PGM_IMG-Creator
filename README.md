@@ -32,7 +32,7 @@ pip install opencv-python numpy matplotlib ezdxf pyyaml
    ```
 3. Run the script:
    ```bash
-   python process_map.py
+   python solution.py
    ```
 4. Output files will be generated in the same directory:
    - `room2.svg`: Vector representation
